@@ -1,3 +1,5 @@
 ## Hi there 👋
 
 The BlackHoodie Institute is a 501(c)(3) nonprofit (EIN 93-1898878) whose mission is to attract and support women in cybersecurity. We focus on providing free technical trainings to women (or those who identify as) with the goal of enriching the security community. Our trainings vary from introductory to advanced, but are always challenging. We do not impose barriers around educational background or organizational affiliation but aim to enable those who are interested in this challenging space and willing to stare at assembly for long hours. Over the last 8 years of operation, we have built a proven track record of successfully launching women on this path– BlackHoodie alum have gone on to land high-paying jobs, crack CTF competitions, and speak at prominent industry and academic conferences. You can learn more about our mission here.
+
+[![Donate!](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github_sponsor-icon.svg)](https://donate.stripe.com/9AQaGq3Ho6084aAdQQ)
